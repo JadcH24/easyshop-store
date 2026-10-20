@@ -1,6 +1,7 @@
 # 🛒 PERN Stack E-Commerce Platform 🚀
 
-![Demo App](./frontend/public/screenshot-for-readme.png)
+<img width="100%" alt="screenshot_for_readme" src="https://github.com/user-attachments/assets/0d621791-dd51-4fda-92b9-0526e21505b6" />
+
 
 ## ✨ Highlights:
 
