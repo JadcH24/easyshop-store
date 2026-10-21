@@ -1,5 +1,7 @@
 # 🛒 PERN Stack E-Commerce Platform 🚀
 
+<img width="100%" alt="readme_screenshot" src="https://github.com/user-attachments/assets/9cf843cc-acff-43e9-9a04-f6e40e72b22b" />
+
 ## ✨ Highlights:
 
 - 🛒 Full Stack E-Commerce App built from scratch
